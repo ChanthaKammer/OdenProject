@@ -1,0 +1,3 @@
+Activity Log:
+
+6/9/2022 Initial Repository Setup
